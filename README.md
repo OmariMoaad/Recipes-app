@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# 🥗 Food Recipes App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React-based web application that allows users to search for food recipes by typing available ingredients. The app fetches and displays recipes from a public API based on the ingredients you enter.
+
+## 🚀 Features
+
+- 🔍 Search recipes by entering ingredients (e.g., "chicken, tomato")
+- 📋 View recipe titles, images, and basic details
+- 🧾 Filter and explore meal ideas based on your fridge content
+- ⚛️ Built with React and styled for a clean, responsive UI
+
+## 📦 Installation
+
+git clone https://github.com/OmariMoaad/food-recipes-app.git
+cd food-recipes-app
+npm install
 
 ## Available Scripts
 
